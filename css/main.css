@@ -648,7 +648,7 @@ box-shadow: 2px 2px 9px -1px rgba(136,146,176,1);
 .footer .icon-wrapper .icon.in:hover {background: #bc2a8d; text-decoration: none;}
 .footer .icon-wrapper .icon.gt:hover {background: #000000; text-decoration: none;}
 .footer .icon-wrapper .icon.lin:hover {background: #0077B5; text-decoration: none;}
-.footer .icon-wrapper .icon.be:hover {background: #0057FF; text-decoration: none;}
+/* .footer .icon-wrapper .icon.be:hover {background: #0057FF; text-decoration: none;} */
 .footer .icon-wrapper .icon.gm:hover {background: #fc2424; text-decoration: none;}
 .footer .copyright {
 	border-top: 1px solid #333;
