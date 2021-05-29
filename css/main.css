@@ -546,7 +546,7 @@ box-shadow: 2px 2px 9px -1px rgba(136,146,176,1);
 
 #project .view{
 	text-decoration: none;
-	border: 1px solid #64FFDA;
+	border: 2px solid #64FFDA;
 	background-color: #000;
 	color:#64FFDA;
 	width: 80%;
