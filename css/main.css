@@ -549,8 +549,17 @@ box-shadow: 2px 2px 9px -1px rgba(136,146,176,1);
 	border: 2px solid #64FFDA;
 	background-color: #000;
 	color:#64FFDA;
-	width: 80%;
-	border-radius: 50px;
+	width: 50%;
+	border-radius: 15px;
+	text-align: center;
+	margin: 0 auto;
+}
+#project .view a{
+	color: rgba(100, 255, 218,1);
+}
+
+#project .view a:hover{
+	color:  rgba(100, 255, 218,0.6); /* #00d8a6; */
 }
 
 #project .linkv{
