@@ -508,7 +508,10 @@ box-shadow: 2px 2px 9px -1px rgba(136,146,176,1);
 	background-size: cover;
 	padding-bottom: 20vh;
 }
-
+#project h3{
+	font-size: 1.7rem;
+	margin: 0.8em 0;
+}
 #project .udr:before{
 	content: "";
 	position: absolute;
@@ -531,7 +534,7 @@ box-shadow: 2px 2px 9px -1px rgba(136,146,176,1);
 }
 
 #project .proj{
-	max-width: 400px;
+	max-width: 31.25em;
 	max-height: 450px;
 	border: 2px rgb(0, 0, 0, 0.7) solid;
 	background-color: rgb(10,25,47,0.75);
@@ -540,7 +543,7 @@ box-shadow: 2px 2px 9px -1px rgba(136,146,176,1);
 	box-shadow: -1rem 0 3rem #000;
 }
 #project .pic1{
-	max-width: 45vw;
+	max-width: 90%;
 	max-height: 30vh;
 }
 
@@ -549,8 +552,8 @@ box-shadow: 2px 2px 9px -1px rgba(136,146,176,1);
 	border: 2px solid #64FFDA;
 	background-color: #000;
 	color:#64FFDA;
-	width: 50%;
-	border-radius: 15px;
+	width: 6em;
+	border-radius: 8px;
 	text-align: center;
 	margin: 0 auto;
 }
@@ -558,9 +561,13 @@ box-shadow: 2px 2px 9px -1px rgba(136,146,176,1);
 	color: rgba(100, 255, 218,1);
 }
 
-#project .view a:hover{
-	color:  rgba(100, 255, 218,0.6); /* #00d8a6; */
+#project .view:hover{
+	background-color: rgb(22, 22, 22,0.7);
+	transform: scale(1.1);
 }
+/* #project .view a:hover{
+	color:  rgba(100, 255, 218,0.6); #00d8a6;
+} */
 
 #project .linkv{
 	text-decoration: none;
